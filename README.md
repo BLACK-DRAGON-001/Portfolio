@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio website! This project showcases my sk
 
 ## 🔗 Live Demo
 
-👉 **[View Portfolio](https://black-dragon-001.github.io/PORTFOLIO/Portfolio.html)**
+👉 **[View Portfolio](https://black-dragon-001.github.io/Portfolio/)**
 
 ---
 
